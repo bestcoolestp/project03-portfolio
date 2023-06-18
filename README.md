@@ -1,4 +1,4 @@
-# Ecomdemo
+# Ecommerce demo Angular
 ![image](https://github.com/bestcoolestp/project03-portfolio/assets/108534975/1c8b69ce-151b-4f02-bb05-cafe4e01a5db)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.1.
